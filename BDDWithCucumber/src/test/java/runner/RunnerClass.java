@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 
-@CucumberOptions(features = "FeatureFiles/DataTableWithoutHeader.feature" , glue="stepDefinitions")
+@CucumberOptions(features = "FeatureFiles/DataTableWithExample.feature" , glue="stepDefinitions")
 public class RunnerClass {
 
 	//	 It should combine the feature file and step definition
