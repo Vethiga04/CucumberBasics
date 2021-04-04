@@ -1,3 +1,4 @@
+@DataDriven @SimpleLogin
 Feature: This is to feature scenario with header table
 Scenario: Using different set of credential choices
 	Given Navigate to sauceDemo site in Chrome

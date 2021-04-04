@@ -1,3 +1,4 @@
+@DataDriven
 Feature: This is to verify login feature with Examples keyword
 Scenario Outline: This is login scenario with multiple combination credentials
 	Given Naviagte to SwagLabs Page

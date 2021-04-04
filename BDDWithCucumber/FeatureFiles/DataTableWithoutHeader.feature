@@ -1,3 +1,4 @@
+@DataDriven @SimpleLogin
 Feature: This is Login Feature of Orange HRM
 Scenario: Here Sending Datas without regular Expressions
 	Given Navigating to OrangeHRM site
